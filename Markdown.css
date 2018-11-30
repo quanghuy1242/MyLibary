@@ -1,0 +1,14 @@
+pre {
+    padding: 0px;
+    margin:10px;
+    line-height: inherit;
+    word-break: break-all;
+    word-wrap: break-word;
+    background-color: inherit;
+    border: 0px;
+    border-radius: 0px;
+}
+
+body {
+	margin: 10px;
+}
